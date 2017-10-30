@@ -1,0 +1,10 @@
+[global]
+workgroup = WORKGROUP  #ֵ(key-value)
+security = share
+maxlog = 50
+
+[public]
+comment = stuff
+public = True
+pi = 3.1415926
+

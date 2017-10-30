@@ -1,0 +1,9 @@
+[global]
+security = share
+maxlog = 100
+
+[public]
+comment = stuff
+public = True
+pi = 3.1415926
+
